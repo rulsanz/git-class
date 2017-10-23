@@ -25,5 +25,5 @@ git commit -m"nombre del commit"         lo que va entre comillas es el comit
 git log
 git diff
 git branch                          checar las ramas y veren que rama estoy
-git check out -b "nombre de la rama"        para crear una rama con nombre
+git checkout -b "nombre de la rama"        para crear una rama con nombre
 '''
