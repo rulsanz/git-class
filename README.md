@@ -14,7 +14,7 @@ this is code
 
 > Nota: bla bla
 
-#comandos:
+# comandos:
 
 '''
 git init
@@ -30,5 +30,6 @@ git merge name_of_branch           para los conflictos
 git commit -m"Solved merge conflict"
 git branch                          checar las ramas y veren que rama estoy
 git checkout -b "nombre de la rama"        para crear una rama con nombre
+git push -u origin master
 
 '''
